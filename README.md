@@ -62,14 +62,12 @@ cd kheloon/KheloON_App
 flutter pub get
 
 # Run on connected device or emulator
-flutter run ```
+flutter run  ```
 
 🌐 React Web App – KheloON Web Dashboard
 ✅ Prerequisites
 Node.js (v16 or newer)
-
 npm or yarn
-
 Git installed
 
 🛠️ Setup Instructions:-
@@ -85,7 +83,7 @@ yarn install
 # Start the development server
 npm run dev
 # OR
-yarn dev ```
+yarn dev  ```
 
 🔗 Open in browser: http://localhost:3000
 
