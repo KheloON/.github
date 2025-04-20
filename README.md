@@ -62,7 +62,7 @@ cd kheloon/KheloON_App
 flutter pub get
 
 # Run on connected device or emulator
-flutter run  ```
+flutter run  bash```
 
 🌐 React Web App – KheloON Web Dashboard
 ✅ Prerequisites
