@@ -12,15 +12,10 @@ KheloON addresses this gap by providing a unified, intelligent athlete managemen
 
 🎯 Objective
 Our mission is to build an all-in-one Athlete Management System that:
-
 Streamlines athlete performance tracking
-
 Supports injury prevention and management
-
 Enables career planning and mentorship
-
 Provides tools for financial tracking and analytics
-
 Enhances communication between athletes, coaches, and institutions
 
 🧠 Team & Approach
@@ -39,15 +34,12 @@ We analyzed the core pain points in athlete development and built a platform tha
 Frontend:
 
 Flutter (KheloON App) – for cross-platform mobile access
-
 React (KheloON Web App) – for coaches & organizations
 
-Backend:
+Backend:-
 
 FastAPI – lightweight, async REST API
-
-Pytohn 
-
+Python
 Docker – containerized deployments
 
 📲 Flutter App – KheloON Mobile
